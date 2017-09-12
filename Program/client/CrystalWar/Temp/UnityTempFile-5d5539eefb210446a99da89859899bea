@@ -99,6 +99,7 @@
 -define:UNITY_EDITOR_OSX
 -define:ENABLE_NATIVE_ARRAY_CHECKS
 -define:UNITY_TEAM_LICENSE
+'Assets/btnEnterScript.cs'
 'Assets/NGUI/Examples/Scripts/InventorySystem/Game/EquipItems.cs'
 'Assets/NGUI/Examples/Scripts/InventorySystem/Game/EquipRandomItem.cs'
 'Assets/NGUI/Examples/Scripts/InventorySystem/Game/UICursor.cs'
