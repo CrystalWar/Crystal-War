@@ -1,14 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalWar", "Assembly-CSharp.csproj", "{06C9D45A-5AF7-EC15-6D2C-C0E17C28F47B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalWar", "Assembly-CSharp-Editor.csproj", "{D66CD116-AA45-7B71-C6BF-91F9182D17E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{06C9D45A-5AF7-EC15-6D2C-C0E17C28F47B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C9D45A-5AF7-EC15-6D2C-C0E17C28F47B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C9D45A-5AF7-EC15-6D2C-C0E17C28F47B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C9D45A-5AF7-EC15-6D2C-C0E17C28F47B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D66CD116-AA45-7B71-C6BF-91F9182D17E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D66CD116-AA45-7B71-C6BF-91F9182D17E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D66CD116-AA45-7B71-C6BF-91F9182D17E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D66CD116-AA45-7B71-C6BF-91F9182D17E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
