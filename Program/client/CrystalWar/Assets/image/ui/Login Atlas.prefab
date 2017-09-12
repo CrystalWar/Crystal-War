@@ -52,79 +52,60 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   material: {fileID: 2100000, guid: 797a64ec0ca4d49c9b20efb2c631fe80, type: 2}
-  sprites:
+  mSprites:
   - name: InvItemBg_Light
-    outer:
-      serializedVersion: 2
-      x: 0
-      y: 7
-      width: 185
-      height: 124
-    inner:
-      serializedVersion: 2
-      x: 70
-      y: 57
-      width: 45
-      height: 24
-    rotated: 0
+    x: 0
+    y: 7
+    width: 185
+    height: 124
+    borderLeft: 70
+    borderRight: 70
+    borderTop: 50
+    borderBottom: 50
     paddingLeft: 0
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
   - name: InvItemBg_Dark
-    outer:
-      serializedVersion: 2
-      x: 0
-      y: 132
-      width: 186
-      height: 124
-    inner:
-      serializedVersion: 2
-      x: 0
-      y: 132
-      width: 186
-      height: 124
-    rotated: 0
+    x: 0
+    y: 132
+    width: 186
+    height: 124
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
     paddingLeft: 0
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
   - name: GrayButton
-    outer:
-      serializedVersion: 2
-      x: 187
-      y: 172
-      width: 263
-      height: 84
-    inner:
-      serializedVersion: 2
-      x: 187
-      y: 172
-      width: 263
-      height: 84
-    rotated: 0
+    x: 187
+    y: 172
+    width: 263
+    height: 84
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
     paddingLeft: 0
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
   - name: GreenButton
-    outer:
-      serializedVersion: 2
-      x: 187
-      y: 87
-      width: 263
-      height: 84
-    inner:
-      serializedVersion: 2
-      x: 187
-      y: 87
-      width: 263
-      height: 84
-    rotated: 0
+    x: 187
+    y: 87
+    width: 263
+    height: 84
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
     paddingLeft: 0
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
-  mCoordinates: 0
   mPixelSize: 1
   mReplacement: {fileID: 0}
+  mCoordinates: 0
+  sprites: []

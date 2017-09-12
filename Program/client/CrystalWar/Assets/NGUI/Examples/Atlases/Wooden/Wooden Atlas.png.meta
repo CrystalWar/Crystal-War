@@ -25,7 +25,7 @@ TextureImporter:
   generateCubemap: 6
   cubemapConvolution: 0
   seamlessCubemap: 0
-  textureFormat: 4
+  textureFormat: 5
   maxTextureSize: 4096
   textureSettings:
     serializedVersion: 2
@@ -62,6 +62,14 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
   spriteSheet:
     serializedVersion: 2
     sprites: []
